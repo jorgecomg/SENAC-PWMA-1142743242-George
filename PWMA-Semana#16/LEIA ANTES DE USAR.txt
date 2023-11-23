@@ -1,0 +1,3 @@
+para usar, tenha certeza de que todos os arquivos da pasta "entrega final" estão na mesma pasta.
+
+use o e-mail "admin" e a senha "admin" para visualizar a aba de usuários (CRUD).
